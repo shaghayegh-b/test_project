@@ -1,5 +1,5 @@
 @import "tailwindcss";
 h3{
     background-color: red;
-    color:blue;
+    color:rgb(255, 255, 255);
 }
